@@ -1,6 +1,6 @@
 {
   "name": "grapesjs-plugin-ckeditor5",
-  "version": "0.0.33",
+  "version": "0.0.34",
   "description": "Replace the built-in RTE with CKEditor5",
   "main": "dist/grapesjs-plugin-ckeditor5.min.js",
   "scripts": {
@@ -37,8 +37,5 @@
     "html-webpack-plugin": "^2.30.1",
     "webpack": "^3.8.1",
     "webpack-dev-server": "^2.9.4"
-  },
-  "dependencies": {
-    "cash-dom": "^8.1.0"
   }
 }
